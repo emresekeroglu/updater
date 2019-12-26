@@ -2,7 +2,7 @@
 <sharpUpdate> 
     <update> 
         <version>1.0.0.2</version> 
-        <url>https://github.com/emresekeroglu/updater/blob/master/GuncelDosyalar/BakirlarTekstil.exe</url> 
+        <url>https://raw.githubusercontent.com/emresekeroglu/updater/master/BakirlarTekstil.exe</url> 
         <filePath>./BakirlarTekstil.exe</filePath>
         <md5>6F79E28438C31B98D722C57CAFB7F6AC</md5>
         <description>Güncelleme: 26/12/2019:
