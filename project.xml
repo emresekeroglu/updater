@@ -9,4 +9,13 @@
         1. Exe Güncelleme Testi</description> 
         <launchArgs></launchArgs> 
     </update>
+    <add> 
+        <version>1.0.0.0</version> 
+        <url>https://raw.githubusercontent.com/emresekeroglu/updater/master/emre.txt</url> 
+        <filePath>./emre.txt</filePath>
+        <md5>88237737FECE6C41EF6CD10AE4DC54C0</md5>
+        <description>Dosya Ekle: 26/12/2019:
+        1. Yeni dosya eklemesi test güncelleme.</description> 
+        <launchArgs></launchArgs> 
+    </add>
 </sharpUpdate>
