@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <update> 
+        <version>3.0.0.0</version> 
+        <url>https://github.com/emresekeroglu/updater/blob/master/GuncelDosyalar/BakirlarTekstil.exe</url> 
+        <filePath>./BakirlarTekstil.exe</filePath>
+        <md5>6F79E28438C31B98D722C57CAFB7F6AC</md5>
+        <description>Güncelleme: 26/12/2019:
+        1. Exe Güncelleme Testi</description> 
+        <launchArgs></launchArgs> 
+    </update>
+</sharpUpdate>
