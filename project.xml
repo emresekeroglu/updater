@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<bakirlarUpdate> 
+    <update appId="TestGuncelleme"> 
+        <version>2.0.0.0</version> 
+        <url>ftp://192.168.1.42/bakirlarTekstilGuncel/BakirlarTekstil.exe</url> 
+        <filePath>./BakirlarTekstil.exe</filePath>
+        <md5>EF2CEE9347D00B143EEABC004C12C9E7</md5>
+        <description>Güncelleme: 26/12/2019:
+        1. Güncelleme sistemi testi.</description> 
+        <launchArgs></launchArgs> 
+    </update>
+</sharpUpdate>
