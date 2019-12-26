@@ -1,7 +1,7 @@
 <?xml version="1.0"?> 
 <bakirlarUpdate> 
     <update appId="TestGuncelleme"> 
-        <version>1.0.0.1</version> 
+        <version>1.0.0.2</version> 
         <url>https://github.com/emresekeroglu/updater/GuncelDosyalar/BakirlarTekstil.exe</url> 
         <filePath>./BakirlarTekstil.exe</filePath>
         <md5>EEE78F659417FDB0A394DCC7C801056D</md5>
