@@ -2,8 +2,8 @@
 <sharpUpdate> 
     <update> 
         <version>1.0.0.2</version> 
-        <url>https://github.com/emresekeroglu/updater/blob/master/GuncelDosyalar/BakirlarTekstil.exe</url> 
-        <filePath>./BakirlarTekstil.exe</filePath>
+        <url>https://github.com/emresekeroglu/updater/blob/master/GuncelDosyalar/BakirlarTekstil.exe?raw=true</url> 
+        <filePath>./GuncelDosyalar/BakirlarTekstil.exe</filePath>
         <md5>6F79E28438C31B98D722C57CAFB7F6AC</md5>
         <description>Güncelleme: 26/12/2019:
         1. Exe Güncelleme Testi</description> 
