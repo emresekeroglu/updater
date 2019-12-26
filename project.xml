@@ -18,7 +18,7 @@
         1. Yeni Güncelleme Animasyonları Eklendi</description> 
         <launchArgs></launchArgs> 
     </update>
-    <update> 
+    <add> 
         <version>1.0.0.1</version> 
         <url>https://raw.githubusercontent.com/emresekeroglu/updater/master/SharpUpdate.pdb</url> 
         <filePath>./SharpUpdate.pdb</filePath>
@@ -26,5 +26,5 @@
         <description>Güncelleme: 26/12/2019:
         1. Güncelleme Modülü Güncellendi</description> 
         <launchArgs></launchArgs> 
-    </update>
+    </add>
 </sharpUpdate>
