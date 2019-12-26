@@ -1,12 +1,12 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.0.5</version> 
+        <version>1.0.0.0</version> 
         <url>https://raw.githubusercontent.com/emresekeroglu/updater/master/BakirlarTekstil.exe</url> 
         <filePath>./BakirlarTekstil.exe</filePath>
         <md5>D8CD163AB4B8158FFDCF7451BCBC3D41</md5>
         <description>Güncelleme: 26/12/2019:
-        1. Versiyon 5 güncellemesi</description> 
+        1. Versiyon 0 güncellemesi</description> 
         <launchArgs></launchArgs> 
     </update>
 </sharpUpdate>
