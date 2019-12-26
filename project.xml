@@ -1,7 +1,7 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>3.0.0.0</version> 
+        <version>1.0.0.2</version> 
         <url>https://github.com/emresekeroglu/updater/blob/master/GuncelDosyalar/BakirlarTekstil.exe</url> 
         <filePath>./BakirlarTekstil.exe</filePath>
         <md5>6F79E28438C31B98D722C57CAFB7F6AC</md5>
