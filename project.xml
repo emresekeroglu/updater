@@ -1,12 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.0.0</version> 
+        <version>1.0.0.1</version> 
         <url>https://raw.githubusercontent.com/emresekeroglu/updater/master/BakirlarTekstil.exe</url> 
         <filePath>./BakirlarTekstil.exe</filePath>
-        <md5>D8CD163AB4B8158FFDCF7451BCBC3D41</md5>
-        <description>Güncelleme: 26/12/2019:
-        1. Versiyon 0 güncellemesi</description> 
+        <md5>51E94E33B613A682EA734CD16810DF91</md5>
+        <description>Güncelleme: 27/12/2019 - 11:53
+        1. Nakit akış işlemlerinde yapılan kayıtları işlem sırasına göre sılama işlevi eklendi.
+        2. Uygulama simgesi güncellendi.
+        3. Muhasebe modülüne "Firma Tanıtımı" işlemleri eklendi.</description> 
         <launchArgs></launchArgs> 
     </update>
 </sharpUpdate>
