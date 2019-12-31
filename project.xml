@@ -4,11 +4,20 @@
         <version>1.0.0.2</version> 
         <url>https://raw.githubusercontent.com/emresekeroglu/updater/master/BakirlarTekstil.exe</url> 
         <filePath>./BakirlarTekstil.exe</filePath>
-        <md5>7141BE72160478BC0A65DAC662EF8A49</md5>
+        <md5>7054741D527F338D0467CB8094186F29</md5>
         <description>Güncelleme: 31/12/2019 - 11:50
         1. Nakit akış formunda tablo düzenini kaydetme işlevi eklendi.
         2. Nakit akış tablosunda arama sonucunda tek kayıt çıktığında bu kayıt düzenlenemiyordu.Bu hata giderildi.
         3. Sevdiklerinizle Birlikte Sağlıklı, Huzurlu, Hayırlı ve Mutlu Bir Yıl geçirmenizi dileriz :). </description> 
         <launchArgs></launchArgs> 
     </update>
+    <add> 
+        <version>1.0.0.2</version> 
+        <url>https://raw.githubusercontent.com/emresekeroglu/updater/master/Resources/2020bg.jpg</url> 
+        <filePath>./Resources</filePath>
+        <md5>3243223E6CCF4350A36627CB344ADD0B</md5>
+        <description>Güncelleme: 31/12/2019 - 11:50
+        1.Karşılama Görseli Değiştirildi.</description> 
+        <launchArgs></launchArgs> 
+    </add>
 </sharpUpdate>
