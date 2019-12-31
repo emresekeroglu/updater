@@ -1,14 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.0.1</version> 
+        <version>1.0.0.2</version> 
         <url>https://raw.githubusercontent.com/emresekeroglu/updater/master/BakirlarTekstil.exe</url> 
         <filePath>./BakirlarTekstil.exe</filePath>
         <md5>86F5246D5C8EE15B3899809CDFFD8EDA</md5>
-        <description>Güncelleme: 27/12/2019 - 11:53
-        1. Nakit akış işlemlerinde yapılan kayıtları işlem sırasına göre sılama işlevi eklendi.
-        2. Uygulama simgesi güncellendi.
-        3. Muhasebe modülüne "Firma Tanıtımı" işlemleri eklendi.</description> 
+        <description>Güncelleme: 31/12/2019 - 11:50
+        1. Nakit akış formunda tablo düzenini kaydetme işlevi eklendi.
+        2. Nakit akış tablosunda arama sonucunda tek kayıt çıktığında bu kayıt düzenlenemiyordu.Bu hata giderildi.
+        3. Sevdiklerinizle Birlikte Sağlıklı, Huzurlu, Hayırlı ve Mutlu Bir Yıl geçirmenizi dileriz :). </description> 
         <launchArgs></launchArgs> 
     </update>
 </sharpUpdate>
