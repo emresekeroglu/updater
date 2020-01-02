@@ -1,14 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.0.2</version> 
+        <version>1.0.0.3</version> 
         <url>https://raw.githubusercontent.com/emresekeroglu/updater/master/BakirlarTekstil.exe</url> 
         <filePath>./BakirlarTekstil.exe</filePath>
-        <md5>7054741D527F338D0467CB8094186F29</md5>
-        <description>Güncelleme: 31/12/2019 - 11:50
-        1. Nakit akış formunda tablo düzenini kaydetme işlevi eklendi.
-        2. Nakit akış tablosunda arama sonucunda tek kayıt çıktığında bu kayıt düzenlenemiyordu.Bu hata giderildi.
-        3. Sevdiklerinizle Birlikte Sağlıklı, Huzurlu, Hayırlı ve Mutlu Bir Yıl geçirmenizi dileriz :). </description> 
+        <md5>ECC67DB05A10389BCC9B6C0BE8F8845D</md5>
+        <description>Güncelleme: 02/01/2020 - 12:46
+        1. Nakit Akış formunda İşlem yapan firmamız varsayılan olarak "Bakırlar Tekstil" gelecek şekilde ayarlandı..
+        2. Nakit Akış formunda Para Birimi varsayılan olarak TL gelecek şekilde ayarlandı.
+        3. Nakit Akış işlemlerinde tablo  üzerinde Sağ Tık Menüsüne kayıt kopyalama işlevi eklendi. </description> 
         <launchArgs></launchArgs> 
     </update>
 </sharpUpdate>
