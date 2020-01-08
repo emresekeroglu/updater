@@ -1,12 +1,13 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.0.4</version> 
+        <version>1.0.0.5</version> 
         <url>https://raw.githubusercontent.com/emresekeroglu/updater/master/BakirlarTekstil.exe</url> 
         <filePath>./BakirlarTekstil.exe</filePath>
-        <md5>02FF2111343601A3E6468D7B2615EBD1</md5>
-        <description>Güncelleme: 08/01/2020 - 08:51
-        1. Nakit Akış modülünde yetkililer için kullanılan mail gönderme işleminde olulşan hata giderildi.</description> 
+        <md5>AD4481F03D54026045DE5826DE1B019D</md5>
+        <description>Güncelleme: 08/01/2020 - 17:40
+        1. Uygulama girişinde "Beni Hatırla" işlevi eklendi.
+        2. Nakit Akış Modülünde tablo kontrolleri ve diğer kontroller daha düzenli olan üst menü yapısı oluşturuldu.</description> 
         <launchArgs></launchArgs> 
     </update>
 </sharpUpdate>
