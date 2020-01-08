@@ -1,14 +1,12 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.0.3</version> 
+        <version>1.0.0.4</version> 
         <url>https://raw.githubusercontent.com/emresekeroglu/updater/master/BakirlarTekstil.exe</url> 
         <filePath>./BakirlarTekstil.exe</filePath>
-        <md5>ECC67DB05A10389BCC9B6C0BE8F8845D</md5>
-        <description>Güncelleme: 02/01/2020 - 12:46
-        1. Nakit Akış formunda İşlem yapan firmamız varsayılan olarak "Bakırlar Tekstil" gelecek şekilde ayarlandı..
-        2. Nakit Akış formunda Para Birimi varsayılan olarak TL gelecek şekilde ayarlandı.
-        3. Nakit Akış işlemlerinde tablo  üzerinde Sağ Tık Menüsüne kayıt kopyalama işlevi eklendi. </description> 
+        <md5>02FF2111343601A3E6468D7B2615EBD1</md5>
+        <description>Güncelleme: 08/01/2020 - 08:51
+        1. Nakit Akış modülünde yetkililer için kullanılan mail gönderme işleminde olulşan hata giderildi.</description> 
         <launchArgs></launchArgs> 
     </update>
 </sharpUpdate>
