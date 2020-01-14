@@ -5,7 +5,7 @@
         <url>https://raw.githubusercontent.com/emresekeroglu/updater/master/BakirlarTekstil.exe</url> 
         <filePath>./BakirlarTekstil.exe</filePath>
         <md5>812B2807C0C7E831E99CE48E473EA5A7</md5>
-        <description>Güncelleme: 09/01/2020 - 09:11
+        <description>Güncelleme: 14/01/2020 - 11:33
         1 - Nakit Akış Tablosunda Kayıt üzerinde açılan menüde bazı durumlarda görünmemesi gereken menü başlıklarının görünmesi sorunu düzeltildi.
         2 - Nakit Akış Tablosunda kullanıcının yanlışlıkla "Ödendi" durumuna aldığı kaydın "Yetkili" tarafından "Ödenmedi" durumuna alması ve "Düzenleme" işlevi eklendi.
         3 - Firma Tablosunda hatalı girilen firma bilgisinin Düzenlenmesinde oluşan hata giderildi.
