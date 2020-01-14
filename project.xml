@@ -1,12 +1,15 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.0.6</version> 
+        <version>1.0.0.7</version> 
         <url>https://raw.githubusercontent.com/emresekeroglu/updater/master/BakirlarTekstil.exe</url> 
         <filePath>./BakirlarTekstil.exe</filePath>
-        <md5>526631735B625D42530CEBF59654E156</md5>
+        <md5>812B2807C0C7E831E99CE48E473EA5A7</md5>
         <description>Güncelleme: 09/01/2020 - 09:11
-        1. Düşük çözünürlüklü ekranlarda Nakit Akış formunun ekranda görünmemesi sorunu düzeltildi.</description> 
+        1 - Nakit Akış Tablosunda Kayıt üzerinde açılan menüde bazı durumlarda görünmemesi gereken menü başlıklarının görünmesi sorunu düzeltildi.
+        2 - Nakit Akış Tablosunda kullanıcının yanlışlıkla "Ödendi" durumuna aldığı kaydın "Yetkili" tarafından "Ödenmedi" durumuna alması ve "Düzenleme" işlevi eklendi.
+        3 - Firma Tablosunda hatalı girilen firma bilgisinin Düzenlenmesinde oluşan hata giderildi.
+        4 - Ana Menü Başlıklarına Simgeler eklendi. Böylece menüyü küçülttüğünüzde sol tarafta sadece simgeler üzerinde alt menülerin görüntülenmesi sağlandı.</description> 
         <launchArgs></launchArgs> 
     </update>
 </sharpUpdate>
