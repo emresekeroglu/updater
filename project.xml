@@ -1,15 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.0.8</version> 
+        <version>1.0.0.9</version> 
         <url>https://raw.githubusercontent.com/emresekeroglu/updater/master/BakirlarTekstil.exe</url> 
         <filePath>./BakirlarTekstil.exe</filePath>
-        <md5>23E2885CD0166D3CF8D426AA63E551CF</md5>
-        <description>Güncelleme: 20/01/2020 - 16:58
-        1 - Nakit akış Tablosunda bir kaydın Ödeme ve Onay durumu ne olursa olsun Yetkili kullanıcının iligli kayıt üzerinde  Silem,Düzenleme ve Ödeme durumunu değiştirebilme işlevi eklendi.
-        2 - Maliyet Modülü eklendi (çalışmalar devam ediyor).
-        3 - İplik Tanımlama modülü eklendi (çalışmalar devam ediyor)
-        4 - Maliyet Modülü altına iplik birim dönüştürme modülü eklendi.</description> 
+        <md5>EAC096FD101DFD2CAF49500B547AA006</md5>
+        <description>Güncelleme: 24/01/2020 - 09:32
+        1 - Nakit Akış Modülünde Üst Menüye "İşlemler" menüsü eklendi.Bu menüde yetkililer için "Çoklu Onayla" ve tüm kullanıcılar "Çoklu Öde" işlevleri eklendi.
+        2 - Nakit Akış tablosunda yetkilinin Mail gönderimine engel olan bir hata giderildi.
+        3 - Nakit Akış tablosunda bir kaydı düzenlemeye çalıştığınızda tarih güncel tarihe dönüyordu. Bu hata giderildi.Düzenleme modunda tarihin olduğu gibi kalması sağlandı.</description> 
         <launchArgs></launchArgs> 
     </update>
 </sharpUpdate>
