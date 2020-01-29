@@ -1,14 +1,13 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.0.9</version> 
+        <version>1.0.1.0</version> 
         <url>https://raw.githubusercontent.com/emresekeroglu/updater/master/BakirlarTekstil.exe</url> 
         <filePath>./BakirlarTekstil.exe</filePath>
-        <md5>EAC096FD101DFD2CAF49500B547AA006</md5>
+        <md5>5723BBBC2040397CB3D0BA96DCB994CF</md5>
         <description>Güncelleme: 24/01/2020 - 09:32
-        1 - Nakit Akış Modülünde Üst Menüye "İşlemler" menüsü eklendi.Bu menüde yetkililer için "Çoklu Onayla" ve tüm kullanıcılar "Çoklu Öde" işlevleri eklendi.
-        2 - Nakit Akış tablosunda yetkilinin Mail gönderimine engel olan bir hata giderildi.
-        3 - Nakit Akış tablosunda bir kaydı düzenlemeye çalıştığınızda tarih güncel tarihe dönüyordu. Bu hata giderildi.Düzenleme modunda tarihin olduğu gibi kalması sağlandı.</description> 
+        1 - Nakit Akış Modülünde Üst Menüye "Raporlar" sekmesi eklendi.
+        2 - Raporlar sekmesine "Ödeme Onay Formu" eklendi. Bu işlev ile yöneticiye özel güncel haftanın onaylanmış nakit akış kayıtlarının onay formunu hazırlanabilmesi sağlandı.</description> 
         <launchArgs></launchArgs> 
     </update>
 </sharpUpdate>
