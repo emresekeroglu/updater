@@ -4,9 +4,9 @@
         <version>1.0.1.1</version> 
         <url>https://raw.githubusercontent.com/emresekeroglu/updater/master/BakirlarTekstil.exe</url> 
         <filePath>./BakirlarTekstil.exe</filePath>
-        <md5>DF9A8CC60430679E77D72C4DA847D20A</md5>
+        <md5>870D62881612C79B324DCC51AC87E5ED</md5>
         <description>Güncelleme: 24/01/2020 - 09:32
-        1 - Nakit Akış Modülü-Raporlar alanında Ödeme Onay Formuna tüm yöneticiler için ayrı ayrı ve tümünü birden seçme işlevi eklendi.</description> 
+        1 - Nakit Akış Modülü-İşlemler altında Çoklu Onay ve Çoklu Ödeme işlemlerinde karşılaşılan bir hata giderildi.</description> 
         <launchArgs></launchArgs> 
     </update>
 </sharpUpdate>
