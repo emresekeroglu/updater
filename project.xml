@@ -1,12 +1,12 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.1.2</version> 
+        <version>1.0.1.3</version> 
         <url>https://raw.githubusercontent.com/emresekeroglu/updater/master/BakirlarTekstil.exe</url> 
         <filePath>./BakirlarTekstil.exe</filePath>
-        <md5>870D62881612C79B324DCC51AC87E5ED</md5>
-        <description>Güncelleme: 07/02/2020 - 11:00
-        1 - Nakit Akış Modülü-İşlemler altında Çoklu Onay ve Çoklu Ödeme işlemlerinde karşılaşılan bir hata giderildi.</description> 
+        <md5>EC6AA013884515B3C475FE9361EAF9DC</md5>
+        <description>Güncelleme: 10/02/2020 - 17:00
+        1 - Nakit Akış Modülü-İşlemler altında Çoklu Ödeme işlemlerinde karşılaşılan bir hata giderildi.Test edildi sorunsuz çalışmaktadır.</description> 
         <launchArgs></launchArgs> 
     </update>
 </sharpUpdate>
