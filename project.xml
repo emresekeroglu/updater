@@ -9,4 +9,13 @@
         1 - Nakit Akış Uygulama Erişim Sorunu Giderildi.</description> 
         <launchArgs></launchArgs> 
     </update>
+    <update> 
+        <version>1.0.0.1</version> 
+        <url>https://raw.githubusercontent.com/emresekeroglu/updater/master/BakirlarTekstil.exe.config</url> 
+        <filePath>./BakirlarTekstil.exe.config</filePath>
+        <md5>E88AC92DF2DF34EED5003B9D540EFC93</md5>
+        <description>Güncelleme: 27/04/2020 - 12:50
+        1 - Nakit Akış Uygulama Erişim Sorunu Giderildi.</description> 
+        <launchArgs></launchArgs> 
+    </update>
 </sharpUpdate>
